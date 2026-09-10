@@ -113,4 +113,4 @@ R: Por ahora no tenemos alertas automáticas, pero sería ideal tenerlas más ad
 El proyecto es viable con herramientas de desarrollo estándar (aplicación web o de escritorio con base de datos relacional). No requiere hardware ni licencias especiales adicionales a las que ya maneja la consultora.
 
 ### 6.2 Factibilidad de negocio
-El sistema reemplaza un proceso manual propenso a errores (pérdida de seguimiento en planillas), por lo que se espera una mejora directa en tiempos de respuesta y en la capacidad de generar informes de gestión, sin requerir una inversión mayor.
+El sistema reemplaza un proceso manual propenso a errores (pérdida de seguimiento en planillas), por lo que se espera una mejora directa en tiempos de respuesta y en la capacidad de generar informes de gestión, sin requerir una inversión mayor;
